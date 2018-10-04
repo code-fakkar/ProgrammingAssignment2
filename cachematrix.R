@@ -1,4 +1,3 @@
-
 ## the function below initialises the value of x and m. Then the values of x and m are set and retrieved.
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
